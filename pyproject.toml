@@ -1,0 +1,13 @@
+[project]
+name = "residual-dark-matter-what-saes-miss-about-behaviors"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "sae-lens>=6.51.0",
+    "scikit-learn>=1.9.1",
+    "torch>=2.14.0",
+    "transformer-lens>=3.9.0",
+]
